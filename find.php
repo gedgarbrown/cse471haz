@@ -21,26 +21,27 @@
 		<div id="header" class="header">
 			<div class="center header"> Hike Arizona</div>
 			&nbsp;
-			<a href="index.php"><img src="images/home.jpg" width = "30" height ="25"></a>
+			<a href="index.php"><img src="images/home.jpg" width = "25" height ="20"></a>
 			&nbsp;
-			<a href="find.php"><img src="images/find.jpg" width = "30" height ="25"></a>
+			<a href="index.php"><img src="images/find.jpg" width = "25" height ="20"></a>
 			&nbsp;
-			<img src="images/plan.jpg" width = "30" height ="25">
+			<img src="images/plan.jpg" width = "25" height ="20">
 			&nbsp;
-			<img src="images/connect.jpg" width = "30" height ="25">
+			<img src="images/connect.jpg" width = "25" height ="20">
 			&nbsp;
-			<img src="images/connect.jpg" width = "30" height ="25">
+			<img src="images/connect.jpg" width = "25" height ="20">
 			&nbsp;
-			<img src="images/login.jpg" width = "30" height ="25">
+			<img src="images/login.jpg" width = "25" height ="20">
 		</div>	
-		<hr>
+		<hr>	
+		<div class="center bold">Find</div>
 		<div>
 			<!-- Row 1 -->
 			<div class="row">	
 				<div class="col-3">&nbsp;
 				</div>
 				<div class="col-6 center">
-					
+				Search: <input type="text">
 				
 				</div>
 				<div class="col-3">&nbsp;
