@@ -33,20 +33,18 @@
 			&nbsp;
 			
 		</div>	
-		<hr>	
-		<div class="center bold">Find</div>
+		<hr>
+		<div class="center bold">Labels</div>
 		<div>
 			<!-- Row 1 -->
 			<div class="row">	
-				<div class="col-2">&nbsp;
+				<div class="col-3">&nbsp;
 				</div>
-				<div class="col-8  center">
-				<form name="searchform">
-				Search: <input type="text" name="search">
-				<input type="submit">
-				</form>
+				<div class="col-6 center">
+					
+				
 				</div>
-				<div class="col-2">&nbsp;
+				<div class="col-3">&nbsp;
 				</div>
 			</div>
 			<!-- Row 2 -->
