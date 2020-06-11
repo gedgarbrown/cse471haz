@@ -45,15 +45,19 @@
 
 
 a:link {
-	color: #db6bb0;
+	color: #548235
 }
 
 a:visited {
-  color: #a984ab;
+	color: #7fc251
+}
+
+a:hover {
+	color: #4a9617
 }
 
 a:active {
-  color: #db6bb0;
+	color: #325e14
 }
 
 .center {
@@ -229,3 +233,4 @@ body {
 	clear: both;
 	display: table;
 }
+
